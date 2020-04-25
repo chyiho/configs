@@ -1,0 +1,8 @@
+#Twitch
+#https://github.com/ConnersHua/Profiles/raw/master/Surge/Ruleset/Media/Twitch.list
+#https://github.com/ACL4SSR/ACL4SSR/raw/master/Clash/Ruleset/Twitch.list
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,jtvnw.net
