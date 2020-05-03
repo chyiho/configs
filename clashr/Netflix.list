@@ -1,6 +1,7 @@
 #Netflix
 #https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Netflix.list
 #https://raw.githubusercontent.com/nameless3721/nash/master/rules/ConnersHua/Surge/Ruleset/Media/Netflix.list
+#https://subconverter.s3-ap-southeast-1.amazonaws.com/RuleSet/Media/netflix.list
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
